@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Soy @gonzaa.dev 👋
+Me dedico al desarrollo web usando Javascript y Python.
 <!--
 **gonzaloezemolina/gonzaloezemolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
