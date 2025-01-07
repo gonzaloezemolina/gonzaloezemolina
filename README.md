@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">I'm a fullstack web developer from Rosario, Argentina</h3>
+<div align="center">
+  <img src="https://res.cloudinary.com/dizfcsmgo/image/upload/v1736208322/gif_1_zqqiwr.gif" alt="banner" width="100%">
+</div>
+
+<h1 align="left">Hi 👋, I'm Gonzalo</h1>
+<h3 align="left">I'm a fullstack web developer from Rosario, Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
