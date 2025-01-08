@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dizfcsmgo/image/upload/v1736208322/gif_1_zqqiwr.gif" alt="banner" width="100%">
+  <img src="https://res.cloudinary.com/dizfcsmgo/image/upload/v1736370861/Banner_Para_LinkedIn_Desarrollador_De_Software_Moderno_Negro_1_bdewg6.png" alt="banner" width="100%">
 </div>
 
 <h1 align="left">Hi 👋, I'm Gonzalo</h1>
